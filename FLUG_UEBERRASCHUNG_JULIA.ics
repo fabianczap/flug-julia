@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//TUIfly//Flugkalender//EN
+BEGIN:VEVENT
+UID:tuiflug-hin-08092025@tui.com
+DTSTAMP:20250530T120000Z
+SUMMARY:Flug nach Mallorca ✈️
+DTSTART;TZID=Europe/Berlin:20250908T081000
+DTEND;TZID=Europe/Berlin:20250908T103500
+LOCATION:Düsseldorf → Palma de Mallorca
+DESCRIPTION:Hey Julia, unser Flug geht am Montag um 08:10 Uhr, und wir sind für 8 Tage weg. Ein Zeitraum, den du dir auf jeden Fall freihalten solltest 😉 Es geht nach Mallorca, nicht allzu weit weg, aber ein Ort mit Sonne, Meer und Zeit für uns. Und wer weiß? Vielleicht ist das nur der Anfang, in Zukunft geht’s noch viel weiter. Ich hoffe, du freust dich genauso wie ich. ✈️🌴❤️
+END:VEVENT
+BEGIN:VEVENT
+UID:tuiflug-zurueck-15092025@tui.com
+DTSTAMP:20250530T120000Z
+SUMMARY:Rückflug von Mallorca ✈️
+DTSTART;TZID=Europe/Berlin:20250915T090500
+DTEND;TZID=Europe/Berlin:20250915T113000
+LOCATION:Palma de Mallorca → Düsseldorf
+DESCRIPTION:Rückflug von unserem Mallorca-Trip. Ich hoffe, du hattest eine wunderschöne Zeit ❤️
+END:VEVENT
+END:VCALENDAR
